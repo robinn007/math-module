@@ -1,0 +1,27 @@
+{
+  "name": "jovian-math",
+  "version": "1.0.0",
+  "description": "It's module containing basic math operations",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robinn007/math-module.git"
+  },
+  "keywords": [
+    "math",
+    "sum",
+    "subtract"
+  ],
+  "author": "sydney",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robinn007/math-module/issues"
+  },
+  "homepage": "https://github.com/robinn007/math-module#readme"
+}
