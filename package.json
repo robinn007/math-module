@@ -1,6 +1,6 @@
 {
   "name": "jovian-math",
-  "version": "1.0.0",
+  "version": "1.1np.0",
   "description": "It's module containing basic math operations",
   "main": "index.js",
   "directories": {
